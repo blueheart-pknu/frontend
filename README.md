@@ -1,0 +1,2 @@
+# frontend
+just admin
