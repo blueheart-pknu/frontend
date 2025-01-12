@@ -20,7 +20,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.AUTO_ACTIONS }}
         with:
-          source-directory: 'output'
+          source-directory: "output"
           destination-github-username: Minkyu01
           destination-repository-name: blue-heart_depoly
           user-email: ${{ secrets.MAIL }}
