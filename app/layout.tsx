@@ -1,3 +1,8 @@
+"use client";
+
+import "../styles/global.css";
+import "../styles/reset.css";
+
 export default function RootLayout({
   children,
 }: {
